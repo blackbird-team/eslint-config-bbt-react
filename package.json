@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-bbt-react",
+  "version": "1.0.0",
+  "description": "ESLint Config for JavaScript + React used by BlackBird Team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackbird-team/eslint-config-bbt-react.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackbird-team/eslint-config-bbt-react/issues"
+  },
+  "homepage": "https://github.com/blackbird-team/eslint-config-bbt-react#readme",
+  "peerDependencies": {
+    "eslint": "^4.6.0"
+  },
+  "dependencies": {
+    "eslint-plugin-react": "^7.3.0"
+  }
+}
