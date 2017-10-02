@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-bbt-react",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "ESLint Config for JavaScript + React used by BlackBird Team",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
     "eslint": "^4.6.0"
   },
   "dependencies": {
-    "eslint-plugin-react": "^7.3.0"
+    "eslint-plugin-react": "^7.4.0"
   }
 }
